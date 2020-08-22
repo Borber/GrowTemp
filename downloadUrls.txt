@@ -1,0 +1,12 @@
+https://cdn.jsdelivr.net/gh/Borber/GrowTemp@master/static/opencv-4/opencv-4.z01
+https://cdn.jsdelivr.net/gh/Borber/GrowTemp@master/static/opencv-4/opencv-4.z02
+https://cdn.jsdelivr.net/gh/Borber/GrowTemp@master/static/opencv-4/opencv-4.z03
+https://cdn.jsdelivr.net/gh/Borber/GrowTemp@master/static/opencv-4/opencv-4.z04
+https://cdn.jsdelivr.net/gh/Borber/GrowTemp@master/static/opencv-4/opencv-4.z05
+https://cdn.jsdelivr.net/gh/Borber/GrowTemp@master/static/opencv-4/opencv-4.z06
+https://cdn.jsdelivr.net/gh/Borber/GrowTemp@master/static/opencv-4/opencv-4.z07
+https://cdn.jsdelivr.net/gh/Borber/GrowTemp@master/static/opencv-4/opencv-4.z08
+https://cdn.jsdelivr.net/gh/Borber/GrowTemp@master/static/opencv-4/opencv-4.z09
+https://cdn.jsdelivr.net/gh/Borber/GrowTemp@master/static/opencv-4/opencv-4.z10
+https://cdn.jsdelivr.net/gh/Borber/GrowTemp@master/static/opencv-4/opencv-4.z11
+https://cdn.jsdelivr.net/gh/Borber/GrowTemp@master/static/opencv-4/opencv-4.zip
